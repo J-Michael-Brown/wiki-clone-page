@@ -15,5 +15,20 @@ body{
 img {
   float: right;
   width: 30%;
-  
+
+}
+
+.container {
+  margin-left: 200px;
+  margin-right: 10px;
+}
+
+.sidebar {
+  position: absolute;
+  width: 175px;
+  padding-left: 10px;
+  margin-left: 0px;
+}
+.row {
+
 }
