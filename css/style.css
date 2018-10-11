@@ -27,7 +27,11 @@ img {
   position: absolute;
   width: 175px;
   padding-left: 10px;
-  margin-left: 0px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+.sidebar img {
+  width: 100%;
 }
 .row {
 
